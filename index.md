@@ -3,3 +3,6 @@
 ``` javascript
 var num = 0;
 ```
+- [ ] Finish my CS homework
+- [ ] Eat a snack
+- [ ] Skate with my friend Max
